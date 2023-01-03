@@ -976,43 +976,50 @@
     "blog": "NSHipster",
     "title": "As We May CodeContinue Reading",
     "description": "What if, instead of lowering source code down for the purpose of execution, we raised it for the purpose of understanding?",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "WWDC 2020",
     "description": "A brief remark about the excitement of Apple’s annual developer conference.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Language Server Protocol",
     "description": "Apple’s adoption of LSP is arguably the most important decision they’ve made for Swift since releasing the language as open source in 2014. It’s a big deal for app developers, and it’s an even bigger deal for Swift developers on other platforms.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Swift Development with Visual Studio Code",
     "description": "VSCode is a cross-platform text and source code editor from Microsoft, and among the first tools to support Language Server Protocol. With LSP for Swift now shipping in Xcode, it’s a great time to see how this integration works for yourself.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Contact Tracing",
     "description": "Apple and Google announced a joint initiative to deploy contact tracing functionality to the billions of devices running iOS or Android in the coming months. In this article, we’ll take a first look at these specifications — particularly, Apple’s proposed ExposureNotification framework — in an effort to anticipate what this will all look like in practice.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Cross-Pollination",
     "description": "A brief essay about the flowering of ideas, written for the occasion of Earth Day.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Swift Logging",
     "description": "Developed by the Swift on Server community, its benefit isn’t limited to use on the server. Indeed, any Swift code intended to be run from the command line would benefit from adopting SwiftLog.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "Css tricks",
@@ -1102,77 +1109,84 @@
     "blog": "NSHipster",
     "title": "As We May CodeContinue Reading",
     "description": "What if, instead of lowering source code down for the purpose of execution, we raised it for the purpose of understanding?",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "WWDC 2020",
     "description": "A brief remark about the excitement of Apple’s annual developer conference.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Language Server Protocol",
     "description": "Apple’s adoption of LSP is arguably the most important decision they’ve made for Swift since releasing the language as open source in 2014. It’s a big deal for app developers, and it’s an even bigger deal for Swift developers on other platforms.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Swift Development with Visual Studio Code",
     "description": "VSCode is a cross-platform text and source code editor from Microsoft, and among the first tools to support Language Server Protocol. With LSP for Swift now shipping in Xcode, it’s a great time to see how this integration works for yourself.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Contact Tracing",
     "description": "Apple and Google announced a joint initiative to deploy contact tracing functionality to the billions of devices running iOS or Android in the coming months. In this article, we’ll take a first look at these specifications — particularly, Apple’s proposed ExposureNotification framework — in an effort to anticipate what this will all look like in practice.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Cross-Pollination",
     "description": "A brief essay about the flowering of ideas, written for the occasion of Earth Day.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "NSHipster",
     "title": "Swift Logging",
     "description": "Developed by the Swift on Server community, its benefit isn’t limited to use on the server. Indeed, any Swift code intended to be run from the command line would benefit from adopting SwiftLog.",
-    "source": "https://nshipster.com/"
+    "source": "https://nshipster.com/",
+    "url": "https://nshipster.com/"
   },
   {
     "blog": "Coding horror",
     "title": "Building a PC, Part IX: Downsizing",
     "description": "Hard to believe that I've had the same PC case since 2011, and my last serious upgrade was in 2015. I guess that's yet another sign that the PC is over, because PC upgrades have gotten really boring. It took 5 years for me to muster up the initiative to get my system fully upgraded! 🥱",
-    "url": "/building-a-pc-part-ix-downsizing/",
+    "url": "https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/",
     "source": "https://blog.codinghorror.com/"
   },
   {
     "blog": "Coding horror",
     "title": "The Rise of the Electric Scooter",
     "description": "In an electric car, the (enormous) battery is a major part of the price.  If electric car prices are decreasing, battery costs must be decreasing, because it's not like the cost of fabricating rubber, aluminum, glass, and steel into car shapes can decline that much, right?",
-    "url": "/the-rise-of-the-electric-scooter/",
+    "url": "https://blog.codinghorror.com/the-rise-of-the-electric-scooter/",
     "source": "https://blog.codinghorror.com/"
   },
   {
     "blog": "Coding horror",
     "title": "Electric Geek Transportation Systems",
     "description": "I've never thought of myself as a \"car person\". The last new car I bought (and in fact, now that I think about it, the first new car I ever bought) was the quirky 1998 Ford Contour SVT. Since then we bought a VW station wagon in 2011 and a Honda minivan in 2012 for family transportation duties. That's it. Not exactly the stuff The Stig's dreams are made of.",
-    "url": "/electric-geek-transportation-systems/",
+    "url": "https://blog.codinghorror.com/electric-geek-transportation-systems/",
     "source": "https://blog.codinghorror.com/"
   },
   {
     "blog": "Coding horror",
     "title": "An Exercise Program for the Fat Web",
     "description": "When I wrote about App-pocalypse Now in 2014, I implied the future still belonged to the web. And it does. But it's also true that the web has changed a lot in the last 10 years, much less the last 20 or 30.",
-    "url": "/an-exercise-program-for-the-fat-web/",
+    "url": "https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/",
     "source": "https://blog.codinghorror.com/"
   },
   {
     "blog": "Coding horror",
     "title": "The Cloud Is Just Someone Else's Computer",
     "description": "When we started Discourse in 2013, our server requirements were high:",
-    "url": "/the-cloud-is-just-someone-elses-computer/",
+    "url": "https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/",
     "source": "https://blog.codinghorror.com/"
   },
   {
@@ -1501,7 +1515,7 @@
     "blog": "haker.io",
     "title": "10 Best Python IDE & Code Editors [Updated Guide]",
     "description": "Launched in 1991 by its creator Guido van Rossum, Python is one of the main programming languages ​​used to automate specific repetitive tasks. The language ...",
-    "url": "https:/ /hackr.io/blog/best-python-ide",
+    "url": "https://hackr.io/bloghttps:/ /hackr.io/blog/best-python-ide",
     "source": "https://hackr.io/blog"
   },
   {
